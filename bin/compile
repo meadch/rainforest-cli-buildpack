@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# install Rainforest CLI if qa environment
+echo "Installing Rainforest CLI..."
+curl -O https://bin.equinox.io/c/htRtQZagtfg/rainforest-cli-stable-darwin-amd64.zip
+unzip rainforest-cli-stable-darwin-amd64.zip -d /usr/local/bin

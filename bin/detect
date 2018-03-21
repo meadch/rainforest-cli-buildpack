@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "Rainforest CLI"
+exit 0
